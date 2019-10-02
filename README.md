@@ -24,6 +24,7 @@ What feature can you add to this repository ?
 - Add a translation for README.md (FR, DE, ES, etc.)
 - Improve documentation of this README.md
 - etc. 
+- do something idk...
 
 ## How to sign up?
 
