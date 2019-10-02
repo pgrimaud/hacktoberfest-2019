@@ -19,7 +19,7 @@ This year, the first **50,000** participants who successfully complete the chall
 
 ### Example
 
-=======
+======ad
 What feature can you add to this repository ?
 
 - Add a translation for README.md (FR, DE, ES, etc.)
@@ -31,4 +31,4 @@ What feature can you add to this repository ?
 
 https://hacktoberfest.digitalocean.com
 
-Quand tu veuc le poker au casino 
+pololo 
