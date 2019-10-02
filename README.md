@@ -2,7 +2,7 @@
 test
 ![hacktoberfest](https://user-images.githubusercontent.com/1866496/65622596-4b382480-dfc6-11e9-9abf-29205789fb3f.png)
 
-Support open source and earn a limited edition T-shirt!Yee
+Support open source and earn a limited edition T-shirt! YEE
 
 ## Event details
 Hacktoberfest® is open to everyone in our global community. 
