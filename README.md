@@ -30,9 +30,8 @@ What feature can you add to this repository ?
 https://hacktoberfest.digitalocean.com
 
 
-#########################################
------------TADUCTION-FRANCAISE-----------
-#########################################
+## TRADUCTION-FRANCAISE
+
 
 Hacktoberfest est un évènement ouvert à tous dans notre communauté mondiale.
 Que vous soyez développeur, étudiant entrain de vous former à la programmation, ou même un hébergeur ou encore une entreprise de n'importe quelle taille, vous pouvez participer à la croissance de l'open source
