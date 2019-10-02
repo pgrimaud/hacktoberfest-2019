@@ -18,7 +18,7 @@ All backgrounds and skill levels are encouraged to complete the challenge.
 This year, the first **50,000** participants who successfully complete the challenge will earn a T-shirt. So be fast !
 
 ### Example
- On rééssaye okokokookkokok
+Salut je veux bien des points en plus stp
 =======
 What feature can you add to this repository ?
 
