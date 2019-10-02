@@ -32,4 +32,5 @@ https://hacktoberfest.digitalocean.com
 Hello
 Salut
 Guten tag
+Bonjour
 
