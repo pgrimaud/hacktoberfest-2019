@@ -1,0 +1,17 @@
+       _,met$$$$$gg.          root@LAPTOP-I9BDGRKL
+    ,g$$$$$$$$$$$$$$$P.       --------------------
+  ,g$$P"     """Y$$.".        OS: Debian GNU/Linux 10 (buster) on Windows 10 x86_64
+ ,$$P'              `$$$.     Kernel: 4.4.0-18362-Microsoft
+',$$P       ,ggs.     `$$b:   Uptime: 12 mins
+`d$$'     ,$P"'   .    $$$    Packages: 325 (dpkg)                                                        
+ $$P      d$'     ,    $$P    Shell: bash 5.0.3                                                           
+ $$:      $$.   -    ,d$$'    Terminal: /dev/tty1                                                         
+ $$;      Y$b._   _,d$P'      CPU: Intel i7-7700HQ (8) @ 2.801GHz
+ Y$$.    `.`"Y$$$$P"'         Memory: 4679MiB / 8147MiB                                                   
+ `$$b      "-.__                                                                                           
+  `Y$$                                                                                                      
+   `Y$$.
+     `$$b.
+       `Y$$b.
+          `"Y$b._
+              `"""
