@@ -30,3 +30,5 @@ What feature can you add to this repository ?
 ## How to sign up?
 
 https://hacktoberfest.digitalocean.com
+
+Quand tu veuc le poker au casino 
