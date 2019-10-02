@@ -1,5 +1,5 @@
 # Hacktoberfest 2019 - IIM
-test
+
 ![hacktoberfest](https://user-images.githubusercontent.com/1866496/65622596-4b382480-dfc6-11e9-9abf-29205789fb3f.png)
 
 Support open source and earn a limited edition T-shirt! YEE
@@ -19,6 +19,7 @@ This year, the first **50,000** participants who successfully complete the chall
 
 ### Example
 
+=======
 What feature can you add to this repository ?
 
 - Add a translation for README.md (FR, DE, ES, etc.)
@@ -29,7 +30,3 @@ What feature can you add to this repository ?
 ## How to sign up?
 
 https://hacktoberfest.digitalocean.com
-
-ouais la street 
-
-Konnichiwa, je suis venu modifier le FICHIER
