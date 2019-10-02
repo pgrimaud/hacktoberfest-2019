@@ -1,0 +1,45 @@
+           XXXXXYYZZZYX
+            XXXXXXYYYYZZZZYXX
+          XXXXYZZYYXZZZZZZZYYXXXX
+         _XXX_XXYYX__---------- XXZZX
+         _XX______@@_XYZZZZZX----XXZX
+        XXZZXYX__XYXZZZZZZZZZYX----XZZX
+       XXYZZXXZ___XXZYZZZZZZYYX-----XZYXX
+     XZ---YXX--___X--ZYYXXYX---------XZZZX
+    XX---XYX-_XXYXXXZZXX--------------XXYZX
+    XYXX     XXXXXXYX------------------XYX
+            X------------YZZZZZZZZZZY----XX
+            XX--XXXYXXYYYZZZZXYZZZXZZZZZ---XX
+            XYXXYXXYXXXXYXXXZZYXYZZZZZYZZY--YX
+            XXXXXXXYXYYYXYZZXZY---Y-YXZZXX---X
+           --YX-----Y-------Y----------YZZZ---Y
+           --XX------------------Y------ZYZZ-X-X
+          XYXX-----------V---------------YZYZ-YZZX
+          XYXXX---------------------------ZYXX-XYZZ
+         YXXXXX----------------------------YXXXXZZZZ
+        ZYXXXXX---------Y-------------------YXXXXZYZZ
+       ZZYXXXXX-------------------Y----V-----XXXXXXZYZZ
+      ZZXXYXXXY------------------------------XXXXXXYXZZ
+     ZYXXXXX YY -------------------------------XXXXXZZYZZ
+    YYXXXXXYX  Y--Y---------------------------YXXXXYZXZZ
+    XXXYXXYX   X-------------------------------XXXXYYXZZZ
+   XXXXYYX     X---------------------------------XXYXY-ZZZ
+   YXXYXXX     X--------------------------------YXXYYY -ZZZ
+  YXYYYXY      YX--------------------------------XXYXX- ZZZ
+  YXYYXYY      XX--Y------------------------------YXXX- ZZZ
+  XYXXYX       XX--------------------V--------------XXX--ZZZ
+ XYYYXYY       XYX-----------------------------------XXY--ZZZ
+ XXYXXY        XXY--------------V--------------------XYXX---ZZ
+ YXYXXY        YXX---------------------------------Y-XXX--  ZZ
+  XYYXX         XX-------------------------------<XX--- Y  ZZ
+   XXXX          XXY--V--------------------------YXXZX--Y   ZZ
+    YXY           -XYXX---------------------------Y-----V   Z
+                    --XXXY-----------------------V-YYYY----
+                     -----YYZZZ   YXXYYXXXXXXXYXX    XXYXYZ
+                     ------YY             XXXXXXXX    XXXXYXZ
+                     XXXYXYY                           XXXYXXYZZ
+                     XXYYYXZ                            VXXYYXZZ
+                    XXXYXXYX                          YYXYZZXZZZZ
+                  YYXYZYXXZXX                      XXXYYZZZZZXXZZXZ
+             YYYYXYYZYYXYZZZ                       XXYZZZZXXXZZ
+         XXYYYXXXXZZZXXXXZ

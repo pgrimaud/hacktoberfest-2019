@@ -29,3 +29,4 @@ Quelle fonctionnalité pouvez-vous ajouter à ce dépôt ?
 ## Comment s'inscrire ?
 
 https://hacktoberfest.digitalocean.com
+Il faut relier son compte Github à son compte de l'Hacktoberfest.
