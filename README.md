@@ -18,7 +18,7 @@ All backgrounds and skill levels are encouraged to complete the challenge.
 This year, the first **50,000** participants who successfully complete the challenge will earn a T-shirt.
 
 ### Example
-oui
+non
 What feature can you add to this repository ?
 
 - Add a translation for README.md (FR, DE, ES, etc.)
